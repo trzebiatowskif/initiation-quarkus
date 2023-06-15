@@ -137,3 +137,5 @@ L'injection est donc régie par le qualifier. La classe demandée et le qualifie
 On constate que la demande du qualifier est stricte, il n’y aura pas d’injection si aucun bean n’est défini pour se qualifier, même si une seule version du bean existe mais avec un qualifier différent.
 
 La gestion des beans sous Jakarta est plus riche que cela (définition de properties en tant que bean, résultat d’une méthode en tant que bean, ajout de decorator...). Je vous laisse approfondir Jakarta sur ces divers aspects si cela vous tente.
+
+[ Exercice suivant ](https://github.com/trzebiatowskif/initiation-quarkus/blob/main/exercice-3/README.md)
